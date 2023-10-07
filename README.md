@@ -1,3 +1,3 @@
 # parking-lot-tracker
 
-** run `python parking.py`
+* run `python parking.py`
